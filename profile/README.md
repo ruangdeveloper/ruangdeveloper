@@ -8,5 +8,5 @@ Apabila kamu menemukan kesalahan dalam website www.ruangdeveloper.com atau ingin
 
 Selamat mempelajari hal baru dan terus mempertajam kemampuan kamu yaa. Dunia teknologi bergerak sangat cepat lho, jangan sampai kamu tertinggal karena lengah dan buang-buang waktu.
 
-Regards,
+_Regards,_<br>
 Rizky Kurniawan
